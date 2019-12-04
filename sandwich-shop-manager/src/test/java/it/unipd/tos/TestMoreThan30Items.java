@@ -1,3 +1,6 @@
+////////////////////////////////////////////////////////////////////
+// [GIACOMO] [CALLEGARI] [1122658]
+////////////////////////////////////////////////////////////////////
 package it.unipd.tos;
 
 
@@ -13,7 +16,7 @@ import it.unipd.tos.model.MenuItem;
 import it.unipd.tos.model.MenuItem.ItemType;
 import it.unipd.tos.business.exception.TakeAwayBillException;
 
-public class TestMoreThan30Items {
+public class TestMoreThan30Items{
 
 	@Test
 	public void test() {
